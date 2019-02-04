@@ -160,4 +160,3 @@ def refresh() {
 def ping() {
 	refresh()
 }
-
